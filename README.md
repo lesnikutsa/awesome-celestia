@@ -1245,7 +1245,6 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Consensus archive: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#snapshot-archive
 - Bridge: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#bridge-node
 - Full: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#full-node
-- Light: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#light-node
 
 #### Public useguides
 - Consensus node installation RU: https://teletype.in/@lesnik13utsa/5Az1NXvr9Af
@@ -1276,7 +1275,6 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Consensus archive: https://utsa.gitbook.io/services/testnet/celestia/snapshots#snapshot-archive
 - Bridge: https://utsa.gitbook.io/services/testnet/celestia/snapshots#bridge-node
 - Full: https://utsa.gitbook.io/services/testnet/celestia/snapshots#full-node
-- Light: https://utsa.gitbook.io/services/testnet/celestia/snapshots#light-node
 
 #### Public useguides
 - Consensus node installation RU: https://teletype.in/@lesnik13utsa/Pxyw1cdBaoZ
@@ -1295,6 +1293,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Creation and administration of CIS Telegram community unofficial with over 1.2k members: https://t.me/celestiaru
 - Media posts and community support Celestia news' in the Telegram group with over 14k: https://t.me/letskynode
 - Media support uisng private Telegram channel: https://t.me/utsa_channel
+- Overview video of Celestia, covering both technical and general information (RU): https://youtu.be/WdYnK7vPD48
+- Overview video of Celestia, covering both technical and general information (ENG): https://youtu.be/0Q-uDf3ugWg
 
 ### Other public services
 - Dashboard Grafana: https://grafana.com/grafana/dashboards/22036-celestia2/
